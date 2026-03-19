@@ -1,16 +1,28 @@
-## Hi there 👋
+# Muhammad Sakhawat
 
-<!--
-**bajwa4u2/bajwa4u2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Aura — a system for persistent, high-trust digital discourse.
 
-Here are some ideas to get you started:
+I build infrastructure, not just features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Designing Aura as a civic-grade platform for institutions, authors, and communities
+- Flutter (Web + Mobile)
+- NestJS + Prisma + PostgreSQL + Redis
+- System architecture, identity, and long-term product design
+
+## Projects
+- Aura Frontend → Flutter-based interface for structured communication  
+- Aura Backend → API layer, auth system, posts, spaces, and institutional flows
+
+## Writing
+Author of *The Origin of You*  
+https://bajwawrites.com
+
+---
+
+I’m interested in:
+- Institutional partnerships  
+- Thoughtful collaborators  
+- Long-term system design  
+
+No noise. Just work that holds.
