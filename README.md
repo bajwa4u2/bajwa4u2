@@ -2,7 +2,9 @@
 
 Founder of Aura — a system for persistent, high-trust digital discourse.
 
-I build infrastructure, not just features.
+Aura is being built as a civic-grade platform for institutions, authors, and communities.
+
+I focus on systems that preserve meaning, continuity, and responsibility in digital communication.
 
 ## Current Focus
 - Designing Aura as a civic-grade platform for institutions, authors, and communities
