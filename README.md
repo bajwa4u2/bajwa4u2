@@ -1,53 +1,99 @@
-# Muhammad Sakhawat
+# Aura
 
-Founder of Aura — a system for persistent, high-trust digital discourse.
+A system for persistent, high-trust digital discourse.
 
-Aura is being built as a civic-grade platform for institutions, authors, and communities.  
-It is designed to preserve continuity, responsibility, and meaning in digital communication.
+Aura is designed as a civic-grade platform for institutions, authors, and communities.  
+It moves digital communication beyond fragmented posts toward structured, continuous discourse.
 
-I build systems, not features.
+Instead of content being created and forgotten, Aura treats communication as something that can be extended, referenced, and carried forward.
 
 ---
 
-## Current Focus
+## Why Aura
 
-- Designing Aura as a long-term digital infrastructure, not a content platform  
+Most digital platforms optimize for speed, reach, and reaction.
+
+As a result:
+- Context is lost  
+- Conversations fragment  
+- Ideas do not carry forward  
+- Authorship weakens over time  
+
+Aura is built on a different premise:
+
+> Communication should preserve continuity, responsibility, and meaning.
+
+---
+
+## Core Principles
+
+- **Continuity over fragmentation**  
+  Writing should extend over time, not disappear into feeds  
+
+- **Chronology over algorithms**  
+  Order is preserved without ranking or manipulation  
+
+- **Identity before reach**  
+  Presence is tied to authorship, not visibility metrics  
+
+- **Responsibility in expression**  
+  Writing is treated as a durable act, not a reaction  
+
+- **No vanity metrics**  
+  Counts are private by default  
+
+---
+
+## System Overview
+
+Aura is developed as a unified system.
+
+### Frontend
 - Flutter (Web + Mobile)  
-- NestJS + Prisma + PostgreSQL + Redis  
-- Identity, correspondence, and institutional architecture  
-- Product design that holds over time, not trends  
+- Structured, identity-driven interface  
+- Designed for long-form continuity, not short-form interaction  
+
+### Backend
+- NestJS  
+- Prisma ORM  
+- PostgreSQL  
+- Redis  
+- JWT-based authentication  
+
+Handles:
+- Identity and sessions  
+- Posts and correspondence  
+- Spaces and institutional layers  
+- Media and storage  
 
 ---
 
-## System
+## Architecture Direction
 
-Aura is developed as a unified system rather than isolated components.
+Aura is not a feature-driven product.  
+It is a system designed to hold over time.
 
-- Aura Frontend → Interface layer built in Flutter for structured, identity-driven communication  
-- Aura Backend → Core infrastructure handling identity, posts, spaces, and institutional flows  
+Current areas of focus:
+- Identity and presence as a foundational layer  
+- Correspondence-based communication (threads, extensions)  
+- Institutional participation and governance structures  
+- External publishing integration  
+- AI as structural assistance, not amplification  
 
 ---
 
-## Writing
+## Status
 
-My work extends beyond software into questions of knowledge, responsibility, and human condition.
+Active development.
 
-- *The Origin of You*  
-- *The Edge of Knowing*  
-- *The Burden of Knowing*
+Core systems are implemented and evolving toward a stable, long-term architecture.
 
+---
+
+## Author
+
+Muhammad Sakhawat  
+Founder of Aura  
+
+https://auraplatform.org  
 https://bajwawrites.com
-
----
-
-## Direction
-
-I am interested in work that requires depth, patience, and long-term thinking.
-
-- Institutional partnerships  
-- Thoughtful collaborators  
-- Systems that outlast noise  
-
----
-
-No noise. Just work that holds.
