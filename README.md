@@ -1,99 +1,69 @@
-# Aura
+# Muhammad Sakhawat
 
-A system for persistent, high-trust digital discourse.
-
-Aura is designed as a civic-grade platform for institutions, authors, and communities.  
-It moves digital communication beyond fragmented posts toward structured, continuous discourse.
-
-Instead of content being created and forgotten, Aura treats communication as something that can be extended, referenced, and carried forward.
+Building systems for continuity, trust, and real-world outcomes.
 
 ---
 
-## Why Aura
+## What I’m Building
 
-Most digital platforms optimize for speed, reach, and reaction.
+### Aura  
+A civic-grade platform for persistent, high-trust digital discourse.
 
-As a result:
-- Context is lost  
-- Conversations fragment  
-- Ideas do not carry forward  
-- Authorship weakens over time  
+Aura moves communication beyond fragmented posts into structured, continuous correspondence.  
+It is designed for institutions, authors, and communities that require continuity, responsibility, and long-term meaning in digital communication.
 
-Aura is built on a different premise:
-
-> Communication should preserve continuity, responsibility, and meaning.
+→ https://auraplatform.org  
 
 ---
 
-## Core Principles
+### Orchestrate  
+An AI-powered revenue operating system.
 
-- **Continuity over fragmentation**  
-  Writing should extend over time, not disappear into feeds  
+Orchestrate handles outbound execution end-to-end:
+- lead identification  
+- personalized outreach  
+- follow-up logic  
+- meeting conversion  
 
-- **Chronology over algorithms**  
-  Order is preserved without ranking or manipulation  
-
-- **Identity before reach**  
-  Presence is tied to authorship, not visibility metrics  
-
-- **Responsibility in expression**  
-  Writing is treated as a durable act, not a reaction  
-
-- **No vanity metrics**  
-  Counts are private by default  
+The system is designed to replace manual outbound workflows with a controlled, continuously running process.
 
 ---
 
-## System Overview
+## Current Direction
 
-Aura is developed as a unified system.
+- Building systems, not feature collections  
+- Focusing on structure before scale  
+- Prioritizing stability, clarity, and long-term behavior  
+- Avoiding noise, growth hacks, and vanity metrics  
 
-### Frontend
-- Flutter (Web + Mobile)  
-- Structured, identity-driven interface  
-- Designed for long-form continuity, not short-form interaction  
+---
 
-### Backend
+## Stack
+
+**Frontend**
+- Flutter (Web + Mobile)
+
+**Backend**
 - NestJS  
-- Prisma ORM  
+- Prisma  
 - PostgreSQL  
 - Redis  
-- JWT-based authentication  
 
-Handles:
-- Identity and sessions  
-- Posts and correspondence  
-- Spaces and institutional layers  
-- Media and storage  
+**Infrastructure**
+- Docker  
+- Railway  
 
 ---
 
-## Architecture Direction
+## Work
 
-Aura is not a feature-driven product.  
-It is a system designed to hold over time.
-
-Current areas of focus:
-- Identity and presence as a foundational layer  
-- Correspondence-based communication (threads, extensions)  
-- Institutional participation and governance structures  
-- External publishing integration  
-- AI as structural assistance, not amplification  
+Writing and long-form thinking:  
+→ https://bajwawrites.com
+- Email: muhammadsakhawat@gmail.com
 
 ---
 
-## Status
+## Contact
 
-Active development.
-
-Core systems are implemented and evolving toward a stable, long-term architecture.
-
----
-
-## Author
-
-Muhammad Sakhawat  
-Founder of Aura  
-
-https://auraplatform.org  
-https://bajwawrites.com
+- Website: https://auraplatform.org  
+- Email: hello@auraplatform.org  
