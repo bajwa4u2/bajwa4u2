@@ -59,7 +59,6 @@ The system is designed to replace manual outbound workflows with a controlled, c
 
 Writing and long-form thinking:  
 → https://bajwawrites.com
-- Email: muhammadsakhawat@gmail.com
 
 ---
 
